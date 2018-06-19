@@ -99,7 +99,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
+        title: "Will",
         href: "http://yanrui.online"
     },{
         title: "简书·延瑞",
